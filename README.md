@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThiagoNPuppo
 - 👀 I’m interested in Desenvolvimento / Programação
-- 🌱 I’m currently learning 3º semestre de SPI
+- 🌱 I’m currently learning 4º semestre de Sistemas Para Internet
 - 📫 How to reach me https://www.linkedin.com/in/thiago-nunes-puppo-58215525b/
 
 <!---
